@@ -6,7 +6,7 @@
 
 ####• What are the challenges in large scale requirements engineering?
 
-A key challenge in construction of these support tools is how to scale them to handle a large volume of information. Particularly crucial are the ways in which large numbers of requirements and their interrelationships are presented to users.[2]
+A key challenge in construction of these support tools is how to scale them to handle a large volume of information.Particularly crucial are the ways in which large numbers of requirements and their interrelationships are presented to users. [2]
 
 ####• What is the order of magnitude of the number of requirements we are discussing?
 
