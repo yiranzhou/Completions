@@ -16,7 +16,7 @@ According to the B.Renell, The order of magnitude of the number of requirements 
 • Read up on and summarise [Strategic] Release Planning
 
 
-H3 Reference
+#H3 Reference
 
 [1]B. Regnell, R. B. Svensson, and K. Wnuk, “Can we beat the complexity of very large-scale requirements engineering?,” in Requirements Engineering: Foundation for Software Quality, Springer, 2008, pp. 123–128.
 
