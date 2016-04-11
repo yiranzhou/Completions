@@ -8,8 +8,7 @@
 
 A key challenge in construction of these support tools is how to scale them to handle a large volume of information. Particularly crucial are the ways in which large numbers of requirements and their interrelationships are presented to users.[2]
 
-####• What is the order of magnitude of the number of requirements we are
-discussing?
+####• What is the order of magnitude of the number of requirements we are discussing?
 
 According to the B.Renell, The order of magnitude of the number of requirements are 1000. The 100 order of magnitude is medium scale requirements and the 10000 order of magnitude is very large scale reuiqrements engineering.[1]
 
