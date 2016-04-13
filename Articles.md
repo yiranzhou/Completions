@@ -1,5 +1,5 @@
 # Seminar 0
-
+###Qeustions
 ####• What is large scale requirements engineering?
 
 ~1000  orders of magnitude requirements.The requirements Managing a complete set of interdependencies is practically unfeasible, but feasible among small bundles of requirements. [1] 
@@ -14,7 +14,7 @@ According to the B.Renell, The order of magnitude of the number of requirements 
 
 ####• Read up on and summarise [Strategic] Release Planning
 
-
+###Articles
 #### Reference  
 
 [1]B. Regnell, R. B. Svensson, and K. Wnuk, “Can we beat the complexity of very large-scale requirements engineering?,” in Requirements Engineering: Foundation for Software Quality, Springer, 2008, pp. 123–128.
