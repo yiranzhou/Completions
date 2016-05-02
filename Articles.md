@@ -18,6 +18,7 @@ According to the B.Renell, The order of magnitude of the number of requirements 
 ####•The Art and Science of Software Release Planning
 
 -A good release plan should provide maximum bussiness value, satisfy the most important stakerholders, be fesible with available resource and reflect dependencies among features.
+
 -Resease planning is ad hoc and rarely based on sound models and methodologies.It is hard to select and scheule features.Planning and follow-up replanning leads many extra activities.Another problem is that the planning scope is often limited to just the next release.
 Even though there are guidelines exist for release plan in princple, they don't tell us how to operate.
 
